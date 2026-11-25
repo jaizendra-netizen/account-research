@@ -1,0 +1,12 @@
+id,tool,verdict,reason
+1,tavily,no,"The text says Plaid lets people connect their financial accounts to the apps and services they choose, used by over 8,000 apps. It is a general data network, not a product built for banks, insurers or lenders."
+8,tavily,no,"The text describes Notion as a generalist all-in-one workspace for wikis, projects and documents, not tailored to financial services."
+10,tavily,no,"The text says Asana is not built specifically for banks, insurers or lenders and is used across many kinds of organizations."
+14,tavily,no,"The text describes Canva as a general graphic design tool used by a wide range of users, not one tailored to financial institutions."
+1,serper,no,The plaid.com homepage says Plaid helps all companies build fintech solutions. Insurance and lending appear only as separate use-case pages.
+3,serper,cannot tell,"Marqeta is described as a card issuing platform whose customers include delivery, lending and Bill.com. The snippets do not say whether it is built specifically for banks, insurers or lenders."
+5,serper,no,"The figma.com homepage calls Figma a collaborative canvas for design, code and AI. The banking results are community templates and one customer story."
+8,serper,no,"The notion.com homepage describes a shared workspace for any team and its agents, with plans from free personal accounts to enterprise."
+10,serper,no,"The asana.com customers page describes team collaboration in general. Cardinal Financial is one case study, and the SEC credit agreement is about Asana as a borrower, not its product."
+14,serper,cannot tell,"The Canva results show bank, finance and loan templates, but nothing states who the main product is built for. Canvas Credit Union is a different company and is ignored."
+18,serper,no,"The hubspot.com financial-services page is one industry page of a general customer platform, and HubSpot's case-study directory is organized by many industries."

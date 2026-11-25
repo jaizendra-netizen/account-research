@@ -1,0 +1,128 @@
+[
+ {
+  "id": "1",
+  "name": "Plaid",
+  "tool": "tavily",
+  "question": "About the company Plaid (website plaid.com): is its main product built specifically for banks, insurers or lenders? A general tool that some banks also use counts as no. Answer yes, no or cannot tell first, then one sentence of evidence.",
+  "answer": "cannot tell",
+  "answer_text": "Plaid's main product is not built specifically for banks, insurers, or lenders. Instead, Plaid is a financial technology company that helps users connect their financial accounts to apps and services they choose, acting as a secure intermediary. The company's platform is used by over 8,000 applications and 12,000 financial institutions to facilitate account linking, identity verification, balance checks, transaction history, and payment initiation. \"Plaid is a data network that lets people connect their bank and financial accounts to apps and services, linking more than 12,000 financial institutions.\"",
+  "confidence": "",
+  "sources": [
+   "https://plaid.com/what-is-plaid",
+   "https://tavily.com/knowledge/company/ScGqcn1oEhF6",
+   "https://www.openbankingtracker.com/api-aggregators/plaid",
+   "https://www.bill.com/blog/what-is-plaid",
+   "https://www.securityhero.io/is-plaid-safe"
+  ],
+  "credits": 1,
+  "seconds": 0
+ },
+ {
+  "id": "3",
+  "name": "Marqeta",
+  "tool": "tavily",
+  "question": "About the company Marqeta (website marqeta.com): is its main product built specifically for banks, insurers or lenders? A general tool that some banks also use counts as no. Answer yes, no or cannot tell first, then one sentence of evidence.",
+  "answer": "no",
+  "answer_text": "No, Marqeta's main product is not built specifically for banks, insurers, or lenders. The company provides a modern card issuing and payment solutions platform that serves industry leaders across various industries, including buy now, pay later, on-demand delivery, expense management, retail, and digital banking. Marqeta's platform enables businesses to create, manage, and control payment cards, including debit, prepaid, and credit cards, and offers services such as virtual cards, spend controls, and Just-in-Time funding.",
+  "confidence": "",
+  "sources": [
+   "https://www.globaldata.com/company-profile/marqeta-inc",
+   "https://investors.marqeta.com/news-releases/news-release-details/marqeta-earns-frost-sullivans-2026-global-product-leadership",
+   "https://tavily.com/knowledge/company/4YFXVgHn0LPH",
+   "https://finovate.com/marqeta-launches-suite-of-banking-products",
+   "https://fintechspecs.com/blog/marqeta-vs-lithic-vs-stripe-issuing"
+  ],
+  "credits": 1,
+  "seconds": 1
+ },
+ {
+  "id": "5",
+  "name": "Figma",
+  "tool": "tavily",
+  "question": "About the company Figma (website figma.com): is its main product built specifically for banks, insurers or lenders? A general tool that some banks also use counts as no. Answer yes, no or cannot tell first, then one sentence of evidence.",
+  "answer": "no",
+  "answer_text": "No, Figma's main product is not built specifically for banks, insurers, or lenders. Figma provides a browser-based platform for design, prototyping, and building digital experiences, which is used by a wide range of industries including design services, software development, and marketing. The sources indicate that Figma is a general tool that has been adopted by various firms, including financial services, but it is not tailored exclusively for banks, insurers, or lenders.",
+  "confidence": "",
+  "sources": [
+   "https://finance.yahoo.com/markets/stocks/articles/citi-initiates-figma-fig-buy-211248391.html",
+   "https://www.youtube.com/watch?v=EPhAp2uW49Q",
+   "https://tavily.com/knowledge/company/gEiQm9OWk45d",
+   "https://www.williamblair.com/News/Figma-Inc-Initiation",
+   "https://www.activepieces.com/blog/figma-pricing-2026-plans-seats-and-billing-costs"
+  ],
+  "credits": 1,
+  "seconds": 0
+ },
+ {
+  "id": "8",
+  "name": "Notion",
+  "tool": "tavily",
+  "question": "About the company Notion (website notion.com): is its main product built specifically for banks, insurers or lenders? A general tool that some banks also use counts as no. Answer yes, no or cannot tell first, then one sentence of evidence.",
+  "answer": "cannot tell",
+  "answer_text": "The sources indicate that Notion is not built specifically for banks, insurers, or lenders. Instead, it is a generalist tool designed to be a flexible workspace for a wide range of users, including early-stage startups and large teams. The sources describe Notion as an all-in-one workspace and productivity tool that can be used for wikis, project management, and document management, among other things. While Notion offers features that could be beneficial for enterprise users, it is not tailored exclusively for financial services.",
+  "confidence": "",
+  "sources": [
+   "https://www.taskade.com/blog/notion-review",
+   "https://research.contrary.com/report/notion",
+   "https://tavily.com/knowledge/company/7SBmAchUBYYa",
+   "https://www.youtube.com/watch?v=CNQcwNMxLsE&vl=en",
+   "https://buildin.ai/blog/buildin-vs-notion"
+  ],
+  "credits": 1,
+  "seconds": 1
+ },
+ {
+  "id": "10",
+  "name": "Asana",
+  "tool": "tavily",
+  "question": "About the company Asana (website asana.com): is its main product built specifically for banks, insurers or lenders? A general tool that some banks also use counts as no. Answer yes, no or cannot tell first, then one sentence of evidence.",
+  "answer": "cannot tell",
+  "answer_text": "The main product of Asana is not built specifically for banks, insurers, or lenders. However, it does offer additional compliance options for organizations where security and compliance are critical, such as government agencies, which can be purchased as a compliance management add-on or included with the Enterprise Plus option. The sources indicate that Asana is used by a variety of organizations, including CityFibre, AB-InBev, Viessmann, eBay, Uber, Overstock.com, Navy Federal Credit Union, Icelandair, and IBM, but do not specifically state that it is built for banks, insurers, or lenders.",
+  "confidence": "",
+  "sources": [
+   "https://www.youtube.com/watch?v=EVUyosjMOqk",
+   "https://asana.com/case-study/cardinal-financial",
+   "https://en.wikipedia.org/wiki/Asana,_Inc.",
+   "https://tavily.com/knowledge/company/N5CL2Xy2glEj",
+   "https://www.activepieces.com/blog/asana-pricing-2026-plans-tiers-and-real-costs"
+  ],
+  "credits": 1,
+  "seconds": 0
+ },
+ {
+  "id": "14",
+  "name": "Canva",
+  "tool": "tavily",
+  "question": "About the company Canva (website canva.com): is its main product built specifically for banks, insurers or lenders? A general tool that some banks also use counts as no. Answer yes, no or cannot tell first, then one sentence of evidence.",
+  "answer": "cannot tell",
+  "answer_text": "Canva's main product is not built specifically for banks, insurers, or lenders. The sources indicate that Canva is a general graphic design tool used by a wide range of users, including large enterprises and individuals, for creating social media posts, presentations, and other visual content. While the sources mention Canva's use by Fortune 500 companies, they do not specify that it is tailored for financial institutions.",
+  "confidence": "",
+  "sources": [
+   "https://www.linkedin.com/news/story/canva-banks-on-its-ai-focused-transformation-ahead-of-ipo-8712522",
+   "https://finance.yahoo.com/technology/ai/articles/canva-rare-startup-grew-fast-201427317.html",
+   "https://tavily.com/knowledge/company/wafeqPWRLzYp",
+   "https://www.stonex.com/en-gb/news-and-analysis/canva-ipo",
+   "https://en.wikipedia.org/wiki/Canva"
+  ],
+  "credits": 1,
+  "seconds": 0
+ },
+ {
+  "id": "18",
+  "name": "HubSpot",
+  "tool": "tavily",
+  "question": "About the company HubSpot (website hubspot.com): is its main product built specifically for banks, insurers or lenders? A general tool that some banks also use counts as no. Answer yes, no or cannot tell first, then one sentence of evidence.",
+  "answer": "no",
+  "answer_text": "No, HubSpot's main product is not built specifically for banks, insurers, or lenders. The sources indicate that HubSpot offers various hubs tailored for different firm types, including Marketing Hub and Sales Hub for B2B and partner sales, and Service Hub for customer inquiries, but do not specify that its main product is exclusively for financial services. HubSpot's primary business model is B2B SaaS, providing a CRM platform and other tools used across multiple industries.",
+  "confidence": "",
+  "sources": [
+   "https://vantagepoint.io/services/technology/hubspot/cee-financial-services",
+   "https://zorallabs.com/solutions",
+   "https://tavily.com/knowledge/company/7hyujTAby2IJ",
+   "https://agopentech.com/lenders.html",
+   "https://www.investmentbankingcouncil.org/blog/financial-institutions-group-advisory-for-banks-and-insurers"
+  ],
+  "credits": 1,
+  "seconds": 0
+ }
+]

@@ -1,0 +1,345 @@
+[
+ {
+  "id": "1",
+  "name": "Plaid",
+  "tool": "serper",
+  "query": "Plaid plaid.com customers banks insurers lenders",
+  "answer": "",
+  "answer_text": "",
+  "sources": [
+   "https://plaid.com/industries/insurance/",
+   "https://plaid.com/",
+   "https://plaid.com/how-it-works-for-consumers/",
+   "https://plaid.com/check/underwriting/",
+   "https://plaid.com/use-cases/lending/guide/"
+  ],
+  "results": [
+   {
+    "title": "Modern insurance payments & underwriting",
+    "link": "https://plaid.com/industries/insurance/",
+    "snippet": "Plaid gives life and P&C insurers real-time income, cash flow, and asset data to support more informed pricing and expand access. Get real time income views ..."
+   },
+   {
+    "title": "Plaid: Enabling all companies to build fintech solutions",
+    "link": "https://plaid.com/",
+    "snippet": "Plaid helps all companies build fintech solutions by making it easy, safe and reliable for people to connect their financial data to apps and services."
+   },
+   {
+    "title": "Plaid helps you link your financial institutions",
+    "link": "https://plaid.com/how-it-works-for-consumers/",
+    "snippet": "Plaid's technology provides connections to more than 12000 global banks and credit unions. Learn how we power the apps in your financial life."
+   },
+   {
+    "title": "Underwriting solutions for smarter lending",
+    "link": "https://plaid.com/check/underwriting/",
+    "snippet": "Accelerate income verification & underwriting with Plaid. Use real-time cash flow data & predictive insights to precisely assess credit risk."
+   },
+   {
+    "title": "Lending Guide",
+    "link": "https://plaid.com/use-cases/lending/guide/",
+    "snippet": "Plaid provides borrowers with an easy, streamlined loan experience; and lenders with access to bank data to make informed loan decisions. \u00b7 Asset verification."
+   },
+   {
+    "title": "LendingClub x Plaid - Rethinking credit underwriting",
+    "link": "https://plaid.com/customer-stories/fintech-takes-lendingclub/",
+    "snippet": "Plaid and LendingClub discuss cash flow data, lifecycle signals, and AI to improve credit decisioning and build adaptive underwriting systems. Listen now."
+   }
+  ],
+  "credits": 1,
+  "seconds": 2
+ },
+ {
+  "id": "3",
+  "name": "Marqeta",
+  "tool": "serper",
+  "query": "Marqeta marqeta.com customers banks insurers lenders",
+  "answer": "",
+  "answer_text": "",
+  "sources": [
+   "https://x.com/marqeta?lang=en",
+   "https://www.marqeta.com/blog/the-age-of-the-non-payments-nerd-is-upon-us-how-innovators-are-democratising",
+   "https://www.marqeta.com/blog/financial-services-are-entering-the-era-of-the-financial-orchestrator",
+   "https://investors.marqeta.com/news-releases/news-release-details/marqeta-and-billcom-partner-power-new-commercial-card-programs",
+   "https://investors.marqeta.com/node/6831/html"
+  ],
+  "results": [
+   {
+    "title": "Marqeta",
+    "link": "https://x.com/marqeta?lang=en",
+    "snippet": "Marqeta Flex, is designed to expand the distribution of Buy Now, Pay Later and provide consumers with more personalized loan options within the payments apps"
+   },
+   {
+    "title": "Unlocking Innovation in Modern Card Issuing: Marqeta's Platform",
+    "link": "https://www.marqeta.com/blog/the-age-of-the-non-payments-nerd-is-upon-us-how-innovators-are-democratising",
+    "snippet": "Marqeta's cutting-edge platform revolutionizes modern card issuing, offering flexibility, scalability, and innovative solutions for businesses."
+   },
+   {
+    "title": "Fintechs entering the era of the financial orchestrator",
+    "link": "https://www.marqeta.com/blog/financial-services-are-entering-the-era-of-the-financial-orchestrator",
+    "snippet": "Marqeta's research frames consumers as financial orchestrators, managing their financial lives across multiple payment methods, wallets, loyalty programs,"
+   },
+   {
+    "title": "Marqeta and Bill.com Partner to Power New Commercial Card Programs for ...",
+    "link": "https://investors.marqeta.com/news-releases/news-release-details/marqeta-and-billcom-partner-power-new-commercial-card-programs",
+    "snippet": "Bill.com will expand its card payment capabilities through Marqeta's modern card issuing platform, representing a significant new customer win ..."
+   },
+   {
+    "title": "Marqeta, Inc. | SEC Filing",
+    "link": "https://investors.marqeta.com/node/6831/html",
+    "snippet": "Marqeta has already emerged as a card issuing platform category leader including on-demand delivery, alternative lending,"
+   },
+   {
+    "title": "Marqeta Introduces \u201cMarqeta for Banking,\u201d Expanding its Modern ...",
+    "link": "https://www.businesswire.com/news/home/20221024005347/en/Marqeta-Introduces-Marqeta-for-Banking-Expanding-its-Modern-Card-Issuing-Platform-With-New-Banking-Capabilities",
+    "snippet": "Marqeta for Banking provides customers with a full set of account, ACH, instant funding and direct deposit products offered through Marqeta's ..."
+   }
+  ],
+  "credits": 1,
+  "seconds": 6
+ },
+ {
+  "id": "5",
+  "name": "Figma",
+  "tool": "serper",
+  "query": "Figma figma.com customers banks insurers lenders",
+  "answer": "",
+  "answer_text": "",
+  "sources": [
+   "https://www.figma.com/community/mobile-apps/finance",
+   "https://www.figma.com/community/file/1231175828956501088/fintech-landing-page",
+   "https://www.figma.com/customers/how-unicaja-builds-its-banking-design-system-and-governance-with-figma/",
+   "https://www.figma.com/community/file/1172516222183225502/how-to-enable-new-to-bank-customers",
+   "https://www.figma.com/"
+  ],
+  "results": [
+   {
+    "title": "Customizable Fintech App Design Templates for Mobile",
+    "link": "https://www.figma.com/community/mobile-apps/finance",
+    "snippet": "You'll find templates for banking apps, payment platforms, cryptocurrency wallets, investment trackers, budgeting tools, and personal finance dashboards."
+   },
+   {
+    "title": "Fintech Landing Page",
+    "link": "https://www.figma.com/community/file/1231175828956501088/fintech-landing-page",
+    "snippet": "This provide a range of financial services, including mobile banking, online payments, digital lending, investment management, and insurance."
+   },
+   {
+    "title": "How Unicaja builds its banking design system and governance with Figma",
+    "link": "https://www.figma.com/customers/how-unicaja-builds-its-banking-design-system-and-governance-with-figma/",
+    "snippet": "Discover how Unicaja uses Figma as its single source of truth to scale design, speed up localization, and meet banking-grade governance ..."
+   },
+   {
+    "title": "How to enable New-to-bank customers",
+    "link": "https://www.figma.com/community/file/1172516222183225502/how-to-enable-new-to-bank-customers",
+    "snippet": "The solution is integrated into the mobile bank, removes UX barriers for new customers, Engage new-2-bank customers in digital service. Activate dormant users, ..."
+   },
+   {
+    "title": "Figma: The collaborative canvas for design, code, and AI",
+    "link": "https://www.figma.com/",
+    "snippet": "Figma is the canvas where design, code, and AI come together. From first idea to shipped product \u2014 go from concept to production with your whole team, ..."
+   },
+   {
+    "title": "Loaner - Loan Company Free Web Design Template",
+    "link": "https://www.figma.com/community/file/1509838694377227167/loaner-loan-company-free-web-design-template",
+    "snippet": "Loaner is a free Figma web design template for loan companies. This web design template is specially designed for finances, banks, loan companies, insurance, ..."
+   }
+  ],
+  "credits": 1,
+  "seconds": 4
+ },
+ {
+  "id": "8",
+  "name": "Notion",
+  "tool": "serper",
+  "query": "Notion notion.com customers banks insurers lenders",
+  "answer": "",
+  "answer_text": "",
+  "sources": [
+   "https://www.notion.com/",
+   "https://www.notion.com/pricing",
+   "https://www.notion.com/customers",
+   "https://www.notion.com/help",
+   "https://www.notion.com/connections/banksync"
+  ],
+  "results": [
+   {
+    "title": "Notion: A shared brain for your team and agents.",
+    "link": "https://www.notion.com/",
+    "snippet": "Notion is where your company's knowledge and context lives so your team and agents can get more done, faster."
+   },
+   {
+    "title": "Notion Pricing Plans: Free, Plus, Business, & Enterprise.",
+    "link": "https://www.notion.com/pricing",
+    "snippet": "Learn more about our different pricing plans. We support everyone, from free personal accounts to enterprise businesses."
+   },
+   {
+    "title": "Notion Customer Stories",
+    "link": "https://www.notion.com/customers",
+    "snippet": "Discover stories, testimonials, and workflows from companies that use Notion to save time, eliminate old tools, and bring peace of mind."
+   },
+   {
+    "title": "Help, Support, and Documentation for Notion",
+    "link": "https://www.notion.com/help",
+    "snippet": "Learn how to scale workflows, connect your tools and become a Notion expert \u2014 all in one place."
+   },
+   {
+    "title": "BankSync",
+    "link": "https://www.notion.com/connections/banksync",
+    "snippet": "BankSync is your secure banking data bridge that automatically syncs your financial information directly into your Notion databases. \u2728 Key Features: - 10k+ ..."
+   },
+   {
+    "title": "Notion",
+    "link": "https://www.notion.so/login",
+    "snippet": "A collaborative AI workspace, built on your company context. Build and orchestrate agents right alongside your team's projects, meetings, and connected ..."
+   }
+  ],
+  "credits": 1,
+  "seconds": 3
+ },
+ {
+  "id": "10",
+  "name": "Asana",
+  "tool": "serper",
+  "query": "Asana asana.com customers banks insurers lenders",
+  "answer": "",
+  "answer_text": "",
+  "sources": [
+   "https://asana.com/case-study/cardinal-financial",
+   "https://asana.com/customers",
+   "https://www.appsruntheworld.com/customers-database/products/view/asana",
+   "https://www.sec.gov/Archives/edgar/data/1477720/000147772022000051/exhibit101creditagreement.htm",
+   "https://investors.asana.com/"
+  ],
+  "results": [
+   {
+    "title": "Asana Case Study - Cardinal Financial",
+    "link": "https://asana.com/case-study/cardinal-financial",
+    "snippet": "Cardinal Financial is ending the mortgage mayhem. Read their case study to learn how they automate their workflows with Asana."
+   },
+   {
+    "title": "Customers who use Asana",
+    "link": "https://asana.com/customers",
+    "snippet": "Start using Asana to simplify collaboration across teams, and see your team's entire workstream in one place for better results. Users include free and paid."
+   },
+   {
+    "title": "List of Asana Customers",
+    "link": "https://www.appsruntheworld.com/customers-database/products/view/asana",
+    "snippet": "Discover companies using or evaluating Asana for Project Portfolio Management with firmographics, technographics and decision-maker insights."
+   },
+   {
+    "title": "Credit Agreement, dated as of November 7, 2022, by and among the",
+    "link": "https://www.sec.gov/Archives/edgar/data/1477720/000147772022000051/exhibit101creditagreement.htm",
+    "snippet": "THIS Credit Agreement (this \u201cAgreement\u201d), dated as of November 7, 2022, is entered into by and among ASANA, INC., a Delaware corporation (the \u201cBorrower\u201d), the ..."
+   },
+   {
+    "title": "Investor Relations \u2022 Asana, Inc.",
+    "link": "https://investors.asana.com/",
+    "snippet": "The Investor Relations website contains information about Asana, Inc.'s business for stockholders, potential investors, and financial analysts."
+   },
+   {
+    "title": "Asana for Account Management",
+    "link": "https://forum.asana.com/t/asana-for-account-management/159931",
+    "snippet": ""
+   }
+  ],
+  "credits": 1,
+  "seconds": 2
+ },
+ {
+  "id": "14",
+  "name": "Canva",
+  "tool": "serper",
+  "query": "Canva canva.com customers banks insurers lenders",
+  "answer": "",
+  "answer_text": "",
+  "sources": [
+   "https://www.canva.com/templates/s/bank/?continuation=100",
+   "https://www.canva.com/logos/templates/finance/",
+   "https://www.canvas.org/",
+   "https://www.canva.com/templates/s/bank/",
+   "https://www.canva.com/templates/s/finance/"
+  ],
+  "results": [
+   {
+    "title": "Page 3 - Free and customizable bank templates",
+    "link": "https://www.canva.com/templates/s/bank/?continuation=100",
+    "snippet": "Explore professionally designed bank templates you can customize and share easily from Canva. Download Canva for free"
+   },
+   {
+    "title": "Free finance logo templates to customize",
+    "link": "https://www.canva.com/logos/templates/finance/",
+    "snippet": "Reap the rewards of a unique brand identity when you customize Canva's professional finance logo templates for free."
+   },
+   {
+    "title": "Canvas Credit Union | Local Banking in Colorado",
+    "link": "https://www.canvas.org/",
+    "snippet": "Canvas Credit Union offers credit union services in Colorado including personal and business savings, checking accounts, loans, and more. Visit today."
+   },
+   {
+    "title": "Free and customizable bank templates",
+    "link": "https://www.canva.com/templates/s/bank/",
+    "snippet": "Explore professionally designed bank templates you can customize and share easily from Canva. Browse our free templates for bank designs you can easily ..."
+   },
+   {
+    "title": "Free and customizable finance templates",
+    "link": "https://www.canva.com/templates/s/finance/",
+    "snippet": "Deliver sound financial decisions with impactful visuals for data, reports, proposals, and more. Customize our finance templates and make money matters ..."
+   },
+   {
+    "title": "Page 4 - Free and customizable loan templates",
+    "link": "https://www.canva.com/templates/s/loan/?continuation=150",
+    "snippet": "Explore professionally designed loan templates you can customize and share easily from Canva. Browse our free templates for loan designs"
+   }
+  ],
+  "credits": 1,
+  "seconds": 2
+ },
+ {
+  "id": "18",
+  "name": "HubSpot",
+  "tool": "serper",
+  "query": "HubSpot hubspot.com customers banks insurers lenders",
+  "answer": "",
+  "answer_text": "",
+  "sources": [
+   "https://www.hubspot.com/case-studies/how-the-mortgage-office-gets-private-lenders-to-the-right-solution-faster-with-hubspots-deal-progression",
+   "https://integrateiq.com/blogs/hubspot-for-mortgage-lenders-encompass-integration-guide/",
+   "https://www.hubspot.com/case-studies/directory/banking-financial-services",
+   "https://www.hubspot.com/financial-services",
+   "https://www.pedowitzgroup.com/blog/hubspot-financial-services-page"
+  ],
+  "results": [
+   {
+    "title": "How The Mortgage Office Gets Private Lenders to the Right Solution Faster ...",
+    "link": "https://www.hubspot.com/case-studies/how-the-mortgage-office-gets-private-lenders-to-the-right-solution-faster-with-hubspots-deal-progression",
+    "snippet": "HubSpot customers acquire 129% more leads, close 36% more deals, and see a 37% improvement in ticket closure rates."
+   },
+   {
+    "title": "HubSpot for Mortgage Lenders: Encompass Integration Guide",
+    "link": "https://integrateiq.com/blogs/hubspot-for-mortgage-lenders-encompass-integration-guide/",
+    "snippet": "HubSpot for mortgage lenders, done right: Encompass data model, milestone webhooks, compliance guardrails and an 8-week integration plan."
+   },
+   {
+    "title": "Banking & Financial Services",
+    "link": "https://www.hubspot.com/case-studies/directory/banking-financial-services",
+    "snippet": "Learn from the customers who move faster, work smarter, and make customer loyalty look easy. Bank scales from start-up to \u00a31bn+ in lending with HubSpot CRM"
+   },
+   {
+    "title": "HubSpot for Financial Services",
+    "link": "https://www.hubspot.com/financial-services",
+    "snippet": "HubSpot's agentic customer platform connects your marketing, advisory, and service teams so no client falls through the cracks. across checking, savings, and ..."
+   },
+   {
+    "title": "HubSpot for Financial Services Firms",
+    "link": "https://www.pedowitzgroup.com/blog/hubspot-financial-services-page",
+    "snippet": "TPG has delivered HubSpot implementations for registered investment advisors, insurance agencies, regional banks, and fintech companies ..."
+   },
+   {
+    "title": "HubSpot for Financial Services: Grow Trust, Scale Revenue",
+    "link": "https://automationstrategists.com/hubspot-for-financial-services/",
+    "snippet": "Banks, credit unions, wealth management firms, and insurance companies all benefit from HubSpot's ability to centralize client data, automate compliant ..."
+   }
+  ],
+  "credits": 1,
+  "seconds": 2
+ }
+]

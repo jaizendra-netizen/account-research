@@ -1,0 +1,62 @@
+[
+ {
+  "name": "Plaid",
+  "answer": "{\"output\": \"No. Plaid describes its core offering as APIs that connect consumers, financial institutions, and developers, with consumer-permissioned data used across applications and services for payments, identity verification, lending, and personal and business finance management\\u2014not as a product built specifically for banks, insurers, or lenders.\"}",
+  "sources": [
+   "https://plaid.com/build-with-plaid",
+   "https://plaid.com/what-is-plaid"
+  ]
+ },
+ {
+  "name": "Marqeta",
+  "answer": "{\"output\": \"No. Marqeta's core offering is a modern card-issuing and processing platform for consumer and commercial debit and credit programs, rather than a product built specifically for banks, insurers, or lenders.\"}",
+  "sources": [
+   "https://investors.marqeta.com/news-releases/news-release-details/block-selects-marqeta-enable-square-credit-card-american",
+   "https://investors.marqeta.com/news-releases/news-release-details/marqeta-and-coinbase-collaborate-enable-stablecoin-backed-card"
+  ]
+ },
+ {
+  "name": "Figma",
+  "answer": "{\"output\": \"No. Figma describes Figma Design as a tool for creating, sharing, and testing designs for websites, mobile apps, and other digital products\\u2014not as software built specifically for banks, insurers, or lenders.\"}",
+  "sources": [
+   "http://help.figma.com/hc/en-us/articles/14563969806359-What-is-Figma"
+  ]
+ },
+ {
+  "name": "Notion",
+  "answer": "{\"output\": \"No. Notion describes its product as a connected workspace for team knowledge, search, and automation, rather than software built specifically for banks, insurers, or lenders.\"}",
+  "sources": [
+   "https://notion.so/features"
+  ]
+ },
+ {
+  "name": "Asana",
+  "answer": "{\"output\": \"No. Asana describes its product as work-management software for teams and AI agents, while its specialized Client Management offering is purpose-built for agencies\\u2014not banks, insurers, or lenders.\"}",
+  "sources": [
+   "https://asana.com/",
+   "https://asana.com/product/client-management"
+  ]
+ },
+ {
+  "name": "Canva",
+  "answer": "{\"output\": \"No. Canva describes itself as an online design and publishing tool intended to empower everyone to design anything and publish anywhere.\"}",
+  "sources": [
+   "https://www.canva.com/about?afsrc=1&clickId=0qP0TaxclxyZWXT09hUW8UryUkuzlNRINweqUo0"
+  ]
+ },
+ {
+  "name": "Datadog",
+  "answer": "{\"output\": \"No. Datadog describes its SaaS platform as providing broad infrastructure, application, log, user-experience, and security monitoring for organizations across many sizes and industries\\u2014not as a product built specifically for banks, insurers, or lenders.\"}",
+  "sources": [
+   "https://www.sec.gov/Archives/edgar/data/1561550/000162828026008819/ddog-20251231.htm"
+  ]
+ },
+ {
+  "name": "HubSpot",
+  "answer": "{\"output\": \"No. HubSpot describes products spanning marketing, sales, content, customer service, and operations, built on its AI-powered Smart CRM, which indicates a general-purpose platform rather than one built specifically for banks, insurers, or lenders.\"}",
+  "sources": [
+   "http://hubspot.com/products",
+   "https://linkedin.com/company/hubspot"
+  ]
+ }
+]

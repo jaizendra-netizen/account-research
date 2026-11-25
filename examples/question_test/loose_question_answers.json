@@ -1,0 +1,61 @@
+[
+ {
+  "name": "Plaid",
+  "answer": "{\"output\": \"Yes. Plaid markets solutions for banks and credit unions, insurers, and lenders, including account verification, payments, and underwriting and risk insights.\"}",
+  "sources": [
+   "https://plaid.com/industries/banks-credit-unions",
+   "https://plaid.com/industries/insurance",
+   "https://plaid.com/use-cases/lending/"
+  ]
+ },
+ {
+  "name": "Marqeta",
+  "answer": "{\"output\": \"Yes\\u2014Marqeta markets a banking technology platform combining modern card issuing and banking-as-a-service.\"}",
+  "sources": [
+   "https://www.marqeta.com/platform/marqeta-for-banking?sa=X&amp;ved=2ahUKEwjv9viV9JeSAxWYVUEAHb2RCccQwgUoBHoECB4QEQ"
+  ]
+ },
+ {
+  "name": "Figma",
+  "answer": "{\"output\": \"Yes \\u2014 Figma's customer story identifies Spanish bank Unicaja as using Figma as its source of truth for online banking and other digital channels.\"}",
+  "sources": [
+   "https://www.figma.com/customers/how-unicaja-builds-its-banking-design-system-and-governance-with-figma/"
+  ]
+ },
+ {
+  "name": "Notion",
+  "answer": "{\"output\": \"Yes\\u2014at least to insurers: Notion partners with insurance carriers to provide DIY monitoring solutions that combine smart sensors with an app, helping insurers engage customers and reduce claims.\"}",
+  "sources": [
+   "https://corporate.comcast.com/stories/notion-is-making-insurance-smarter-with-diy-monitoring"
+  ]
+ },
+ {
+  "name": "Asana",
+  "answer": "{\"output\": \"Yes \\u2014 Asana\\u2019s case study says Cardinal Financial, a national mortgage lender, turned to Asana to automate workflows and coordinate teams.\"}",
+  "sources": [
+   "https://asana.com/case-study/cardinal-financial"
+  ]
+ },
+ {
+  "name": "Canva",
+  "answer": "{\"output\": \"Yes \\u2014 Canva reports that an insurance firm adopted Canva Enterprise, replacing its prior design software and licensing it for its team.\"}",
+  "sources": [
+   "https://www.canva.com/business/case-studies/insurance-firm"
+  ]
+ },
+ {
+  "name": "Datadog",
+  "answer": "{\"output\": \"Yes. Datadog says banks and insurers trust its unified observability platform, and its financial-services page links to customer case studies.\"}",
+  "sources": [
+   "https://www.datadoghq.com/solutions/financial-services"
+  ]
+ },
+ {
+  "name": "HubSpot",
+  "answer": "{\"output\": \"Yes. HubSpot offers its customer platform for financial services, with features specifically for banking, insurance, and mortgage lending, and its case study documents Allica Bank implementing HubSpot CRM, Sales Hub, Service Hub, and Marketing Hub.\"}",
+  "sources": [
+   "https://www.hubspot.com/financial-services",
+   "https://www.hubspot.com/case-studies/allica-bank"
+  ]
+ }
+]

@@ -1,0 +1,103 @@
+[
+ {
+  "id": "1",
+  "name": "Plaid",
+  "tool": "parallel",
+  "question": "About the company Plaid (website plaid.com): is its main product built specifically for banks, insurers or lenders? A general tool that some banks also use counts as no. Answer yes, no or cannot tell first, then one sentence of evidence.",
+  "answer": "no",
+  "answer_text": "Plaid describes its core offering as APIs connecting consumers, financial institutions, and developers, used by apps and services for multiple financial use cases; this supports that it is a general tool rather than a product built specifically for banks, insurers, or lenders.",
+  "confidence": "high",
+  "sources": [
+   "https://plaid.com/build-with-plaid",
+   "https://plaid.com/what-is-plaid"
+  ],
+  "run_id": "trun_28a0f9ec3d4f47cca54da2186dd868b2",
+  "seconds": 30
+ },
+ {
+  "id": "3",
+  "name": "Marqeta",
+  "tool": "parallel",
+  "question": "About the company Marqeta (website marqeta.com): is its main product built specifically for banks, insurers or lenders? A general tool that some banks also use counts as no. Answer yes, no or cannot tell first, then one sentence of evidence.",
+  "answer": "no",
+  "answer_text": "Marqeta describes its product as a platform that enables customers to build products using services from bank partners, and lists broad card issuing, processing, money movement, and related capabilities. This supports a general payments platform, not a product built specifically for banks, insurers, or lenders.",
+  "confidence": "medium",
+  "sources": [
+   "https://www.marqeta.com/platform/overview"
+  ],
+  "run_id": "trun_28a0f9ec3d4f47ccab5f7d6412537827",
+  "seconds": 68
+ },
+ {
+  "id": "5",
+  "name": "Figma",
+  "tool": "parallel",
+  "question": "About the company Figma (website figma.com): is its main product built specifically for banks, insurers or lenders? A general tool that some banks also use counts as no. Answer yes, no or cannot tell first, then one sentence of evidence.",
+  "answer": "no",
+  "answer_text": "Figma describes Figma Design as a tool for creating websites, mobile apps, and other digital products, indicating a general-purpose design product rather than one built specifically for banks, insurers, or lenders.",
+  "confidence": "medium",
+  "sources": [
+   "http://help.figma.com/hc/en-us/articles/14563969806359-What-is-Figma"
+  ],
+  "run_id": "trun_28a0f9ec3d4f47ccb5aac5182388fab9",
+  "seconds": 37
+ },
+ {
+  "id": "8",
+  "name": "Notion",
+  "tool": "parallel",
+  "question": "About the company Notion (website notion.com): is its main product built specifically for banks, insurers or lenders? A general tool that some banks also use counts as no. Answer yes, no or cannot tell first, then one sentence of evidence.",
+  "answer": "no",
+  "answer_text": "Notion\u2019s own product page describes it as a connected workspace bringing documents, wikis, projects, and databases together, which supports a general-purpose product rather than one built specifically for banks, insurers, or lenders.",
+  "confidence": "high",
+  "sources": [
+   "https://www.notion.com/product/notion"
+  ],
+  "run_id": "trun_28a0f9ec3d4f47cca61e32bbf0f4056f",
+  "seconds": 6
+ },
+ {
+  "id": "10",
+  "name": "Asana",
+  "tool": "parallel",
+  "question": "About the company Asana (website asana.com): is its main product built specifically for banks, insurers or lenders? A general tool that some banks also use counts as no. Answer yes, no or cannot tell first, then one sentence of evidence.",
+  "answer": "no",
+  "answer_text": "Asana describes its flagship product as a collaborative work-management platform for organizational workflows, rather than a product built specifically for banks, insurers, or lenders.",
+  "confidence": "medium",
+  "sources": [
+   "http://asana.com/product",
+   "https://investors.asana.com/static-files/9b79a79f-ece8-4f9c-93de-e61eb6aee065"
+  ],
+  "run_id": "trun_28a0f9ec3d4f47cca538e7ca95b389d1",
+  "seconds": 10
+ },
+ {
+  "id": "14",
+  "name": "Canva",
+  "tool": "parallel",
+  "question": "About the company Canva (website canva.com): is its main product built specifically for banks, insurers or lenders? A general tool that some banks also use counts as no. Answer yes, no or cannot tell first, then one sentence of evidence.",
+  "answer": "no",
+  "answer_text": "Canva describes itself as a general online design and publishing tool and lists broad creative uses, rather than a product built specifically for banks, insurers, or lenders; under the question\u2019s rule, that supports \u201cno.\u201d",
+  "confidence": "high",
+  "sources": [
+   "https://www.canva.com/about?afsrc=1&clickId=0qP0TaxclxyZWXT09hUW8UryUkuzlNRINweqUo0",
+   "https://www.canva.com/"
+  ],
+  "run_id": "trun_28a0f9ec3d4f47ccabf24b21c14f0d02",
+  "seconds": 39
+ },
+ {
+  "id": "18",
+  "name": "HubSpot",
+  "tool": "parallel",
+  "question": "About the company HubSpot (website hubspot.com): is its main product built specifically for banks, insurers or lenders? A general tool that some banks also use counts as no. Answer yes, no or cannot tell first, then one sentence of evidence.",
+  "answer": "no",
+  "answer_text": "HubSpot describes its product as an agentic customer platform for businesses generally, with customers across more than 135 countries, rather than as software specifically built for banks, insurers, or lenders.",
+  "confidence": "medium",
+  "sources": [
+   "https://www.hubspot.com/newsroom"
+  ],
+  "run_id": "trun_28a0f9ec3d4f47cca862a56bed1dd7fd",
+  "seconds": 32
+ }
+]

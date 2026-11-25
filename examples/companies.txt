@@ -1,0 +1,20 @@
+# One company per line:  LinkedIn URL | the name you expect | the website you expect
+# Only the URL is required. The other two columns catch a LinkedIn address that points at the wrong company.
+https://www.linkedin.com/company/plaid-/ | Plaid | plaid.com
+https://www.linkedin.com/company/guidewire-software/ | Guidewire | guidewire.com
+https://www.linkedin.com/company/marqeta/ | Marqeta | marqeta.com
+https://www.linkedin.com/company/duck-creek-technologies/ | Duck Creek | duckcreek.com
+https://www.linkedin.com/company/figma/ | Figma | figma.com
+https://www.linkedin.com/company/q2ebanking/ | Q2 | q2.com
+https://www.linkedin.com/company/jack-henry/ | Jack Henry | jackhenry.com
+https://www.linkedin.com/company/notionhq/ | Notion | notion.com
+https://www.linkedin.com/company/meridianlink/ | MeridianLink | meridianlink.com
+https://www.linkedin.com/company/asana/ | Asana | asana.com
+https://www.linkedin.com/company/blend/ | Blend | blend.com
+https://www.linkedin.com/company/toast-inc/ | Toast | toasttab.com
+https://www.linkedin.com/company/procore-technologies/ | Procore | procore.com
+https://www.linkedin.com/company/canva/ | Canva | canva.com
+https://www.linkedin.com/company/veeva-systems/ | Veeva | veeva.com
+https://www.linkedin.com/company/datadog/ | Datadog | datadoghq.com
+https://www.linkedin.com/company/shopify/ | Shopify | shopify.com
+https://www.linkedin.com/company/hubspot/ | HubSpot | hubspot.com

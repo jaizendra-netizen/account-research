@@ -1,0 +1,19 @@
+id,name,verdict,reason,quote,confidence,quote_in_text
+1,Plaid,cannot tell,"The text says Plaid works with many large banks and covers 12,000 financial institutions, but it does not say Plaid sells software to them. Its stated customers are apps that connect to financial accounts.",,medium,
+2,Guidewire Software,yes,"Guidewire's platform is built for P&C insurers, and the text says over 570 insurers rely on its products.","Guidewire is the platform P&C insurers trust to engage, innovate, and grow efficiently.",high,yes
+3,Marqeta,cannot tell,"Marqeta describes a card issuing platform for 'world-class customers' without naming banks, insurers or lenders as the buyers, and it does not name another customer group either.",,medium,
+4,Duck Creek Technologies,yes,Duck Creek provides the platform for insurance systems and describes itself as a provider to the property and casualty and general insurance industry.,We are the platform upon which modern insurance systems are built,high,yes
+5,Figma,cannot tell,The text is only 'Trying all the skills' and says nothing about what the company sells or to whom.,,high,
+6,Q2,yes,"Q2 says it provides digital banking and lending solutions to banks, credit unions and other finance firms.","providing digital banking and lending solutions to banks, credit unions, alternative finance, and fintech companies",high,yes
+7,Jack Henry,yes,Jack Henry says thousands of community and regional banks and credit unions rely on its technology and services.,"Approximately 7,500 community and regional banks and credit unions count on us",high,yes
+8,Notion,cannot tell,"Notion is described as a general all-in-one workspace with no named industry or customer group, so the text neither confirms nor rules out banks.",,medium,
+9,MeridianLink,yes,"MeridianLink offers a digital lending platform aimed at banks, credit unions and mortgage lenders.","Making lending human for banks, credit unions, and mortgage lenders.",high,yes
+10,Asana,cannot tell,"Asana is a general work management platform. The named customers (Accenture, Amazon, Anthropic, Morningstar, Suzuki) do not show a focus on or exclusion of banks, insurers or lenders.",,medium,
+11,BLEND,no,"BLEND is a fashion brand selling clothing through stores, not a software company.",We started as a commercial fashion brand,high,yes
+12,Toast,no,"Toast sells a POS platform to restaurateurs and retailers, not to banks, insurers or lenders.",the restaurateurs and retailers running busy businesses,high,yes
+13,Procore Technologies,no,Procore's platform is built for the construction industry.,"Procore Technologies, Inc. (NYSE: PCOR) is a leading technology partner for every stage of construction.",high,yes
+14,Canva,cannot tell,"Canva is a general design tool for anyone, with no named industry or customer group, so the text does not say who buys it.",,medium,
+15,Veeva Systems,no,Veeva serves life sciences companies such as biopharmaceutical firms and biotechs.,"Veeva delivers the industry cloud for life sciences with software, AI, data, and business consulting.",high,yes
+16,Datadog,no,"Datadog names DevOps teams as its users, and the text does not point to banks, insurers or lenders. This is a weaker no because the product is a general monitoring tool.","These capabilities help DevOps teams avoid downtime, resolve performance issues",medium,yes
+17,Shopify,no,Shopify sells commerce tools to retail businesses.,"providing trusted tools to start, grow, market, and manage a retail business of any size",high,yes
+18,HubSpot,cannot tell,"HubSpot is a general marketing, sales and service platform for 'businesses' with no named industry, so the text does not show whether banks, insurers or lenders are targeted.",,medium,
